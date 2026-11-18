@@ -1,0 +1,20 @@
+{
+  "_note": "v1 heuristic themes. Keys are topics; values are lowercase keywords matched as whole words in caption, hashtags and Instagram's accessibility caption. Override with config/topics.json.",
+  "gaming": ["gaming", "gamer", "gameplay", "minecraft", "gta", "gtav", "gtavi", "bgmi", "pubg", "valorant", "freefire", "esports", "playstation", "ps5", "xbox", "nintendo", "pokemon", "fortnite", "streamer", "goty"],
+  "tech_gadgets": ["tech", "smartphone", "phone", "laptop", "unboxing", "gadget", "galaxy", "iphone", "android", "camera", "headphones", "earbuds", "smartwatch", "ai"],
+  "beauty_skincare": ["skincare", "makeup", "beauty", "grwm", "serum", "sunscreen", "lipstick", "haircare", "glow"],
+  "fashion": ["fashion", "outfit", "ootd", "style", "styled", "streetwear", "saree", "lehenga", "kurta", "sneakers", "lookbook"],
+  "food": ["food", "foodie", "recipe", "cooking", "restaurant", "streetfood", "dessert", "biryani", "cafe", "chef", "foodreview"],
+  "travel": ["travel", "trip", "vacation", "wanderlust", "explore", "beach", "mountains", "roadtrip", "hotel", "flight", "visa"],
+  "fitness_health": ["fitness", "gym", "workout", "yoga", "health", "diet", "protein", "running", "transformation"],
+  "comedy_entertainment": ["comedy", "funny", "meme", "memes", "prank", "skit", "relatable", "roast", "standup", "lol"],
+  "family_relationships": ["family", "mom", "dad", "sister", "brother", "behen", "bhai", "couple", "wedding", "baby", "parents", "siblings"],
+  "festivals_culture": ["diwali", "holi", "eid", "christmas", "navratri", "garba", "rakhi", "ganesh", "festival", "festive"],
+  "cars_bikes": ["car", "cars", "supercar", "porsche", "bmw", "mercedes", "bike", "superbike", "automobile", "drive", "lamborghini"],
+  "finance_business": ["finance", "money", "investing", "stocks", "crypto", "business", "startup", "entrepreneur", "sip", "trading"],
+  "education_career": ["education", "study", "exam", "upsc", "career", "learning", "tips", "student", "college"],
+  "music_dance": ["music", "song", "singing", "dance", "dancer", "cover", "rap", "concert", "choreography"],
+  "sports": ["cricket", "football", "ipl", "sports", "kabaddi", "badminton", "match"],
+  "lifestyle_vlog": ["vlog", "dayinmylife", "lifestyle", "routine", "bts", "behindthescenes"],
+  "pets": ["dog", "puppy", "cat", "pets", "petlover"]
+}
